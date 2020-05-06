@@ -1,2 +1,2 @@
-# fixed-map-one-look-at-this-one-
-actual map
+# js-map-analyzer
+Map Analyzer Assignment for CS10
